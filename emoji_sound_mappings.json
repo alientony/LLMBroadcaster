@@ -1,0 +1,13 @@
+{
+    "😂": "path/to/laughter_sound.mp3",
+    "🎶": "path/to/music_note_sound.mp3",
+    "👏": "path/to/applause_sound.mp3",
+    "🎉": "path/to/celebration_sound.mp3",
+    "🌧️": "path/to/rain_sound.mp3",
+    "⚡": "path/to/thunder_sound.mp3",
+    "🔊": "path/to/loud_sound.mp3",
+    "🔔": "path/to/bell_sound.mp3",
+    "🐦": "path/to/bird_sound.mp3",
+    "🚗": "path/to/car_sound.mp3",
+	"🎸": "Sounds/Rift.mp3"
+}
